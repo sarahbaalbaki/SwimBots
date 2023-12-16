@@ -1,0 +1,20 @@
+Results
+
+This is a summary of the results obtained between generation 0 and 1000 generation.
+
+We start out with 200 swimbots, and end up with 280 bots.
+
+The maximum energy in the last generation was 94.411109 and the mean energy was 28.517857.
+
+The maximum age in the last generation was 978 , the minimum was 0 and the average age was 333.935714.
+
+The most frequent segment number in the last generation was 2 and the average segment number was 3.707143, 
+compared to the most frequent being 5 in the first generation, and the average being 4.905000.
+
+The average translational movement in the last generation was 1.967857 while in the first generation it was 4.415000.
+
+The average rotational movement in the last generation was 0.349502 while in the first generation it was 0.366781.
+
+The most frequent range of length of the first (main) segment in the last generation was 13 and the average was 12.507143, 
+compared to the most frequent range of length of the first segment being  15 in the first generation, and the average being 11.610000.
+
