@@ -1,4 +1,5 @@
 # Swimbots GenePool Simulation
+Authors: Sarah Baalbaki, William Hsu, Tanxin Qiao, Dylan Estep
 
 ## Description
 - This program simulates a population of artificial life form (Swimbots) living in an imaginary pool (GenePool), where they search for food and produce offspring.
